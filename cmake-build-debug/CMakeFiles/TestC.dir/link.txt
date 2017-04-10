@@ -1,3 +1,0 @@
-"D:\Tools\CLion\CLion 2016.3.4\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\TestC.dir/objects.a
-D:\Tools\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\TestC.dir/objects.a @CMakeFiles\TestC.dir\objects1.rsp
-D:\Tools\CodeBlocks\MinGW\bin\gcc.exe  -g   -Wl,--whole-archive CMakeFiles\TestC.dir/objects.a -Wl,--no-whole-archive  -o TestC.exe -Wl,--out-implib,libTestC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestC.dir\linklibs.rsp
