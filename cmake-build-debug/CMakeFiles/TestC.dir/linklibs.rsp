@@ -1,0 +1,1 @@
+ -lmingw32 D:/Tools/CodeBlocks/MinGW/lib/libSDL2main.a D:/Tools/CodeBlocks/MinGW/lib/libSDL2.dll.a D:/Programing/SDL/MinGW/SDL2_image-2.0.1/x86_64-w64-mingw32/lib/libSDL2_image.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
