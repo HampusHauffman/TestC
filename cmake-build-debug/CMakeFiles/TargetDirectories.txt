@@ -1,0 +1,3 @@
+D:/Dokument/ProgrammeringJacob/TestC/cmake-build-debug/CMakeFiles/TestC.dir
+D:/Dokument/ProgrammeringJacob/TestC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dokument/ProgrammeringJacob/TestC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
